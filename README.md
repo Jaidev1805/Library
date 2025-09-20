@@ -12,7 +12,7 @@ Built as part of **The Odin Project** to practice **JavaScript, DOM manipulation
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/library-project.git
+git clone https://github.com/Jaidev1805/library-project.git
 ```
 
 ## Technologies
