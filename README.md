@@ -15,7 +15,7 @@ Built as part of **The Odin Project** to practice **JavaScript, DOM manipulation
 git clone https://github.com/yourusername/library-project.git
 ```
 
-##Technologies
+## Technologies
 - HTML – for page structure
 - CSS – for styling
 - JavaScript – for interactivity, DOM manipulation, and object-oriented logic
