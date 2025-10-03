@@ -19,7 +19,7 @@ h1{
 }
 .tables th {
     background-color: #545a96;
-    color: whitesmoke;
+    color: whitesmoke;git 
 }
 #openModal{
     display: block;
@@ -75,8 +75,12 @@ dialog button:hover {
   color: white;
   font-family: "Alan Sans", sans-serif;
 }
+.removeBtn {
+    background: #c82333;
+    margin-right: 5px;
+}
 .removeBtn:hover {
- background: #0056b3;   
+ background: #9e0a0a;   
 }
 .readBtn:hover {
  background: #0056b3;
